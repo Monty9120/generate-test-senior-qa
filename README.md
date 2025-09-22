@@ -42,13 +42,6 @@ Feel free to replace the placeholder test in `tests/example.spec.ts` with your o
 - Thoughtful comments only where they add clarity.
 - Clean git history (optional but appreciated) that reflects your thinking.
 
-## Extras (Optional)
-Tackle any of the following if you have time and it adds value:
-- Cross-browser execution via Playwright projects or CLI options.
-- CI configuration (GitHub Actions, etc.) that runs the suite.
-- Visual comparison or screenshot assertions.
-- Coverage of edge cases such as international phone numbers or leap-year DOBs.
-
 ## How to Submit
 You can either:
 1. Submit via Github at a public URL which we can access
