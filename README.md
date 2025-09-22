@@ -50,7 +50,9 @@ Tackle any of the following if you have time and it adds value:
 - Coverage of edge cases such as international phone numbers or leap-year DOBs.
 
 ## How to Submit
-Please provide us with a Github (or similar) URL for us to access the code.
+You can either:
+1. Submit via Github at a public URL which we can access
+2. Or just send back a compressed ZIP file of the completed work (without node_modules if possible!)
 
 **Spend NO MORE THAN 1 HOUR on this task** - don't worry if you don't hit all the requirements perfectly, this is to simply show you have some understanding of automated tests. 
 
